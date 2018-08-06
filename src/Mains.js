@@ -1,10 +1,12 @@
 import React, { Component} from 'react';
 import BookComponent from './BookComponent'
+import { Link } from 'react-router-dom'
 
 
 class Mains extends Component {
 
     render() {
+    
         return(
           <div className="list-books">
             <div className="list-books-title">
@@ -22,11 +24,11 @@ class Mains extends Component {
                         .filter(book => book.shelf === 'currentlyReading' )
                         .map(book => (
                             <li key = {book.id} >
-                            <BookComponent
-                            listBooks = {book}
-                            belongsToShelf = "currentlyReading"
-                            moveToShelf = {this.props.moveToShelf}
-                            />
+                                <BookComponent
+                                listBooks = {book}
+                                belongsToShelf = "currentlyReading"
+                                moveToShelf = {this.props.moveToShelf}
+                                />
                             </li>    
                             )
                         )
@@ -45,10 +47,10 @@ class Mains extends Component {
                         .filter(book => book.shelf === 'wantToRead' )
                         .map(book => (
                             <li key = {book.id} >
-                            <BookComponent
-                            listBooks = {book}
-                            belongsToShelf = "wantToRead"
-                            moveToShelf = {this.props.moveToShelf}/>
+                                <BookComponent
+                                listBooks = {book}
+                                belongsToShelf = "wantToRead"
+                                moveToShelf = {this.props.moveToShelf}/>
                             </li>
                             )
                         )
@@ -66,10 +68,10 @@ class Mains extends Component {
                         .filter(book => book.shelf === 'read' )
                         .map(book => (
                             <li key = {book.id} >
-                            <BookComponent
-                            listBooks = {book}
-                            belongsToShelf = "read"
-                            moveToShelf = {this.props.moveToShelf}/>
+                                <BookComponent
+                                listBooks = {book}
+                                belongsToShelf = "read"
+                                moveToShelf = {this.props.moveToShelf}/>
                             </li>
                             )
                         )
@@ -82,7 +84,10 @@ class Mains extends Component {
               </div>
             </div>
             <div className="open-search">
-              <a onClick={() => this.setState({ showSearchPage: true })}>Add a book</a>
+              <Link
+              to = "/search" 
+              onClick={() => this.setState({ showSearchPage: true })}>Add a book
+              </Link>
             </div>
           </div>
         );
