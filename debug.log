@@ -1,0 +1,188 @@
+[0807/000903.311:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ff778330000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.016:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0807/000904.017:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0e8e0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.017:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0807/000904.017:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c1b0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.018:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0807/000904.019:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0aff0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.019:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0807/000904.019:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd09350000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.019:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\apphelp.dll
+[0807/000904.019:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c590000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.019:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0807/000904.020:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c0f0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.020:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0807/000904.020:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0afa0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.020:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0807/000904.020:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0bae0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.020:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0807/000904.020:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0dae0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.020:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0807/000904.020:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0e030000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.021:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0807/000904.021:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0e150000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.021:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0807/000904.021:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0b310000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.021:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0807/000904.021:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0b390000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.021:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0807/000904.022:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c040000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.022:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\advapi32.dll
+[0807/000904.022:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c4d0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.022:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0807/000904.022:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c530000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.022:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0807/000904.022:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0db90000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.023:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0807/000904.023:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ae00000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.023:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0807/000904.023:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ad40000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.023:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0807/000904.023:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c340000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.023:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0807/000904.023:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ade0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.024:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0807/000904.024:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0acc0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.024:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0807/000904.024:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ac30000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.024:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0807/000904.024:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0aca0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.024:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0807/000904.024:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0de80000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.024:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\PSAPI.DLL
+[0807/000904.025:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcddf70000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.025:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.84\chrome_elf.dll
+[0807/000904.025:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd01d90000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.025:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0807/000904.025:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd01490000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.025:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0807/000904.025:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ab60000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.026:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0807/000904.026:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd053e0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.026:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0807/000904.026:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd01460000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.026:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0807/000904.026:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a6a0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.026:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0807/000904.027:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0dd80000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.027:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0807/000904.027:ERROR:process_reader_win.cc(242)] ReadMemory at 0x55390000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.027:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\360\Total Security\safemon\SafeWrapper.dll
+[0807/000904.027:ERROR:process_reader_win.cc(242)] ReadMemory at 0x55280000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.027:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\360\Total Security\safemon\safemon64.dll
+[0807/000904.027:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0dbc0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.027:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\ole32.dll
+[0807/000904.028:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ddb0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.028:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0807/000904.028:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c020000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.028:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\imagehlp.dll
+[0807/000904.028:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0dd10000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.028:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0807/000904.028:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd019d0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.028:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0807/000904.029:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a350000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.029:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0807/000904.029:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd07700000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.029:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\WKSCLI.DLL
+[0807/000904.029:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a790000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.029:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0807/000904.029:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ace0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.029:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\WINTRUST.DLL
+[0807/000904.029:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ac80000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0bbe0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a680000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a0c0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\system32\rsaenh.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcc0150000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.84\chrome_child.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0d9d0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\COMDLG32.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcfc4e0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.030:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\msdmo.dll
+[0807/000904.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd01620000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.031:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.309_none_15cfd4c4935e6b11\COMCTL32.dll
+[0807/000904.031:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a250000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.031:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0807/000904.031:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcf4e30000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.031:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0807/000904.031:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd00ad0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.031:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0807/000904.031:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd007b0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.032:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0807/000904.032:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffce87e0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.032:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0807/000904.032:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd09a40000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.032:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\dxgi.dll
+[0807/000904.032:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcffd30000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.032:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\urlmon.dll
+[0807/000904.032:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd01be0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.032:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0807/000904.032:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd05530000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.032:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0807/000904.032:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0c1a0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0807/000904.033:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd04300000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\iertutil.dll
+[0807/000904.033:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0ab30000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0807/000904.033:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0e460000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\SETUPAPI.dll
+[0807/000904.033:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0aa40000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\DEVOBJ.dll
+[0807/000904.033:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffce7500000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\mf.dll
+[0807/000904.034:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcf2770000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.034:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\MFPlat.DLL
+[0807/000904.034:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcfb580000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.034:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\RTWorkQ.DLL
+[0807/000904.034:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffce1830000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.034:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\msmpeg2vdec.dll
+[0807/000904.034:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffce29c0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.034:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\mfperfhelper.dll
+[0807/000904.034:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffceb890000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.034:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\dxva2.dll
+[0807/000904.034:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffce1720000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.034:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\msvproc.dll
+[0807/000904.035:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcf07b0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.035:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\CompPkgSup.DLL
+[0807/000904.035:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd08790000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.035:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\D3DCompiler_47.dll
+[0807/000904.035:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcbfc90000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.035:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.84\libglesv2.dll
+[0807/000904.035:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffce1580000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.035:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d9.dll
+[0807/000904.035:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd09650000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.035:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\dwmapi.dll
+[0807/000904.035:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcfb1d0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.035:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\68.0.3440.84\libegl.dll
+[0807/000904.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd07df0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.036:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d11.dll
+[0807/000904.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd09050000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.036:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\dcomp.dll
+[0807/000904.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcf6e20000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.036:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c552e4480cba79db\igd10iumd64.dll
+[0807/000904.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a760000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.036:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\ncrypt.dll
+[0807/000904.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0a720000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.036:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\NTASN1.dll
+[0807/000904.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcf5570000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.037:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c552e4480cba79db\igc64.dll
+[0807/000904.037:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffccd380000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.037:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\DriverStore\FileRepository\igdlh64.inf_amd64_c552e4480cba79db\igd11dxva64.dll
+[0807/000904.037:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0bf80000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.037:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\clbcatq.dll
+[0807/000904.037:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcd61e0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.037:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\System32\mfh264enc.dll
+[0807/000904.037:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd09400000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.037:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\system32\uxtheme.dll
+[0807/000904.037:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffd0bdb0000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.038:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\System32\MSCTF.dll
+[0807/000904.038:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ffcfde00000 of 64 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.038:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\WINDOWS\SYSTEM32\MSVP9DEC.dll
+[0807/000904.554:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7c6a1eb000 of 86016 bytes failed: Egy ReadProcessMemory vagy WriteProcessMemory kérésnek csak egy része készült el. (0x12B)
+[0807/000904.554:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0807/000904.555:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\biroz\AppData\Local\Google\Chrome\User Data\Crashpad\reports\52b02388-cf08-4c90-a256-cae1e1f62d8f.dmp: A folyamat nem fér hozzá a fájlhoz, mert azt egy másik folyamat használja. (0x20)
+[0807/000904.556:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Kísérlet történt egy éppen kilépõ folyamat elérésére. (0xc000010a)
