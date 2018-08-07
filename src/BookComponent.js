@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 class BookComponent extends Component {
 
     render() {
+        {/* checking the existence of Thumbnail property and sets empty string if there was no value*/}
         let checkThumbnailExists = this.props.listBooks.imageLinks ? this.props.listBooks.imageLinks.thumbnail : '';
 
 
@@ -13,10 +14,13 @@ class BookComponent extends Component {
                     </div>
                     <div className="book-shelf-changer">
                         <select
+
+        /* in case of click on different state , set the value and bove the book to the selected shelf */
                          onChange = {(e) => this.props.moveToShelf(
                             this.props.listBooks, e.target.value)
                             }
 
+        /* set the value of the select menu to "none" as default or shelf related value */
                             value = {this.props.belongsToShelf}
                         >
                             <option value="move" disabled>Move to...</option>
@@ -38,4 +42,3 @@ class BookComponent extends Component {
 }
 
 export default BookComponent;
-
