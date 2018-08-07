@@ -12,23 +12,25 @@ class App extends React.Component {
 
   }
 
-  componentDidMount() {
+  getAllFromApi() {
+    // put fethced books into state.allBooks
     BooksAPI.getAll().then((books) => {
-      // put fethced books into state.allBooks
       this.setState({ allBooks: books })
-
     })
+
+  }
+
+  componentDidMount() {
+    this.getAllFromApi();
 
   }
 
   moveToShelf = (book, shelf) => {
     BooksAPI.update(book, shelf);
-    BooksAPI.getAll().then((books) => {
-      this.setState({ allBooks: books })
+    this.getAllFromApi();
 
-    })
-  
   }
+
 
   render() {
     return (
@@ -49,7 +51,7 @@ class App extends React.Component {
           />
         )} 
       />
-        
+
       </div>
 
     )
