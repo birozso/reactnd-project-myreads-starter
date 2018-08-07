@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import * as BooksAPI from './BooksAPI'
-import BookComponent from './BookComponent';
-import { Link } from 'react-router-dom'
+import BookComponent from './BookComponent'
+
 
 class SearchComponent extends Component {
 
@@ -11,16 +12,19 @@ state = {
 }
 
 updateQuery = (q) => {
-   // this.setState({query: q})
-    // blocking the first space in the search field
-        let trimmedQuery = q.replace(/^\s+/, '')
+
+    // blocking the first space in the search field by replace method
+        let trimmedQuery = q.replace(/^\s+/, '');
         this.setState({
           query: trimmedQuery
-        
-    }) 
+
+    })
     this.fetchSearchResult(this.state.query);
 }
 
+/*  calling BooksAPI and gets data, in case of error put an empty array as result 
+ *not to break the map() method later 
+ */
 fetchSearchResult = (q) => {
     if (this.state.query){
         BooksAPI.search(q).then((searchResult) => {
@@ -29,11 +33,10 @@ fetchSearchResult = (q) => {
             }
             else {
                 this.setState({results: searchResult});
-            }            
+            }
         }).catch((error) => {
             console.log(error);
             this.setState({results: []})
-
         })
     }
     else {
@@ -49,6 +52,8 @@ render() {
             <div className="search-books">
 
                 <div className="search-books-bar">
+
+                { /* react-router-dom Link function set the path in address line of the browser */ }
                     <Link
                     to = "/" 
                     className="close-search" 
@@ -58,8 +63,8 @@ render() {
 
                        <input 
                        type="text" 
-                       placeholder="Search by title or author"
-                       value = {this.state.query}
+                       placeholder="Search by title or author" 
+                       value = {this.state.query} 
                        onChange = {(e) => this.updateQuery(e.target.value)}
                        />
                     </div>
@@ -68,7 +73,11 @@ render() {
                 <div className="search-books-results">
                     <ol className="books-grid">
 
-                    { 
+                    {
+                        /* set the shelf propertary of the books "none" if those not belongs to any shelf
+                        *  and set the correct shelf value if they are on a shelf already 
+                        *
+                        */ 
                         this.state.results.map(result => {
                             let initShelf = "none";
                             this.props.listBooks.map(book => (
@@ -79,7 +88,7 @@ render() {
 
                             <li key = {result.id}>
                                 <BookComponent
-                                    listBooks = {result} 
+                                    listBooks = {result}
                                     belongsToShelf = {initShelf}
                                     moveToShelf = {this.props.moveToShelf}
                                 />
