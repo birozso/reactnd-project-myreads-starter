@@ -6,8 +6,10 @@ import { Link } from 'react-router-dom'
 class Mains extends Component {
 
     render() {
-    
+
         return(
+
+          /* structure same as the starter one  , some methods added */
           <div className="list-books">
             <div className="list-books-title">
               <h1>MyReads</h1>
@@ -20,6 +22,11 @@ class Mains extends Component {
                     <ol className="books-grid">
 
                     {
+
+                      /* a filter and an embended map method in it , collect the books 
+                       *  info that belongs to a specific shelf and  set the parameters of books inside
+                       *  BookComponent component by passing the current value from Mains
+                       */
                         this.props.listBooks
                         .filter(book => book.shelf === 'currentlyReading' )
                         .map(book => (
@@ -29,11 +36,10 @@ class Mains extends Component {
                                 belongsToShelf = "currentlyReading"
                                 moveToShelf = {this.props.moveToShelf}
                                 />
-                            </li>    
+                            </li>
                             )
                         )
                     }
-
 
                     </ol>
                   </div>
@@ -42,6 +48,7 @@ class Mains extends Component {
                   <h2 className="bookshelf-title">Want to Read</h2>
                   <div className="bookshelf-books">
                     <ol className="books-grid">
+
                     {
                         this.props.listBooks
                         .filter(book => book.shelf === 'wantToRead' )
@@ -63,6 +70,7 @@ class Mains extends Component {
                   <h2 className="bookshelf-title">Read</h2>
                   <div className="bookshelf-books">
                     <ol className="books-grid">
+
                     {
                         this.props.listBooks
                         .filter(book => book.shelf === 'read' )
@@ -77,13 +85,14 @@ class Mains extends Component {
                         )
                     }
 
-
                     </ol>
                   </div>
                 </div>
               </div>
             </div>
             <div className="open-search">
+
+            {/* react-router Link function modify  the address line according to "Link to" property  */}
               <Link
               to = "/search" 
               onClick={() => this.setState({ showSearchPage: true })}>Add a book
@@ -92,7 +101,7 @@ class Mains extends Component {
           </div>
         );
     }
-    
+
 }
 
 export default Mains;
